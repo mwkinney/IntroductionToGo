@@ -1,1 +1,1 @@
-Random clippings from my time working through this book
+Random clippings from my time working through this book by Caleb Doxsey
