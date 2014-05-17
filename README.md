@@ -1,1 +1,1 @@
-Random clippings from my time working through this book by Caleb Doxsey
+Random clips from my time working through An Introduction to Programming In Go by Caleb Doxsey
